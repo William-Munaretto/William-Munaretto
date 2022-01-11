@@ -5,10 +5,10 @@
 - 📫 Email: william.munaretto@gmail.com
 - :books: Formação:  Sou estudante de Tecnologia e Análise de Sistemas pelo IFPR/FOZ.
 - 😄 Apelidos? Pode me chamar de **TIO MUNA**.
-- ⚡ Fato Engraçado: Nunca imaginei que aos 33 anos de idade iria descobrir com o que realmente eu gosto de trabalho, ou seja, Desenvolvimento. ÉÉÉÉ, eu estou me transformando num DEV! 
+- ⚡ Fato Engraçado: Nunca imaginei que aos 33 anos de idade iria descobrir com o que realmente gosto de trabalhar, ou seja, Desenvolvimento. ÉÉÉÉ, eu estou me transformando em um DEV! 
 
 ---
-
+<br/>
 <div align="center">
   <a href="https://github.com/William-Munaretto">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=William-Munaretto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@
 </div>
 
 ---
-
+<br/>
 <br />
 <div> 
   <a href="https://www.instagram.com/william_munaretto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
