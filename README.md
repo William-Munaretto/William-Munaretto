@@ -14,7 +14,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=William-Munaretto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Munaretto&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
-<div style="display: inline_block; text-align: center"><br>
+<div style="display: inline_block" style="align: center"><br>
   <img align="center" alt="Muna-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Muna-html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Muna-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
