@@ -3,7 +3,7 @@
 <br />
 
 - 📫 Email: william.munaretto@gmail.com
-- :books: Formação:  Sou estudante de Tecnologia e Análise de Sistemas pelo IFPR/FOZ.
+- :books: Formação: Atualmente sou estudante de Tecnologia e Análise de Sistemas pelo IFPR/FOZ, mas sou graduado e pós-graduado em Administração Pública.
 - 😄 Apelidos? Pode me chamar de **TIO MUNA**.
 - ⚡ Fato Engraçado: Nunca imaginei que aos 33 anos de idade iria descobrir com o que realmente gosto de trabalhar, ou seja, Desenvolvimento. ÉÉÉÉ, eu estou me transformando em um DEV! 
 <br/>
