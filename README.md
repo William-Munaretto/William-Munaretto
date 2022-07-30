@@ -4,7 +4,6 @@
 
 - 📫 Email: william.munaretto@gmail.com
 - :books: Formação: Atualmente sou estudante de Análise e Desenlvovimento de Sistemas pelo IFPR/FOZ, mas sou graduado e pós-graduado em Administração Pública.
-- 😄 Apelidos? Pode me chamar de **TIO MUNA**.
 - ⚡ Fato Engraçado: Nunca imaginei que aos 33 anos de idade iria descobrir com o que realmente gosto de trabalhar, ou seja, **desenvolvimento!** ÉÉÉÉ, eu estou me transformando em um DEV! 
 <br/>
 
@@ -21,6 +20,7 @@
   <img align="center" alt="Muna-html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Muna-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Muna-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Muna-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android.svg">
   <img align="center" alt="Muna-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 <br/>
