@@ -3,8 +3,8 @@
 <br />
 
 - 📫 Email: william.munaretto@gmail.com
-- :books: Formação: Atualmente sou estudante de Análise e Desenlvovimento de Sistemas pelo IFPR/FOZ, mas sou graduado e pós-graduado em Administração Pública.
-- ⚡ Fato Engraçado: Nunca imaginei que aos 33 anos de idade iria descobrir com o que realmente gosto de trabalhar, ou seja, **desenvolvimento!** ÉÉÉÉ, eu estou me transformando em um DEV! 
+- :books: Formação: Atualmente sou estudante de Análise e Desenlvovimento de Sistemas pelo IFPR/FOZ e também graduado e pós-graduado em Gestão Pública.
+- ⚡ Fato Engraçado: Nunca imaginei que aos 33 anos de idade descobriria uma nova paixão, ou seja, **desenvolvimento de software!** ÉÉÉÉ, eu estou me transformando em um DEV! 
 <br/>
 
 ---
