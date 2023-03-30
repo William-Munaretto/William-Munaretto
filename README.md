@@ -3,12 +3,15 @@
 <br />
 <ul>
   <li>Email: william.munaretto@gmail.com</li>
- </ul>
-* 
-* books: Formação: * Graduação em Análise e Desenlvovimento de Sistemas pelo IFPR/FOZ (2019-2023);
-                   * Graduação em Gestão Pública pela UNICESUMAR (2013-2015)
-                   * Pós graduação em Gestão Pública pela FACULDADE SÃO LUIS (e também graduado e pós-graduado em Gestão Pública.
-* ⚡ Linked in: <https://www.linkedin.com/in/william-ricardo-munaretto/>
+  <li>Formação:
+      <ul>
+        <li>Graduação em Análise e Desenlvovimento de Sistemas pelo IFPR/FOZ (2019-2023);</li>
+        <li>Graduação em Gestão Pública pela UNICESUMAR (2013-2015);</li>
+        <li>Pós graduação em Gestão Pública pela FACULDADE SÃO LUIS (2019-2020).</li>
+    </ul>
+  </li>
+  <li>Linked in: <https://www.linkedin.com/in/william-ricardo-munaretto/></li>
+</ul>
 <br/>
 
 ---
