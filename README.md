@@ -10,7 +10,7 @@
         <li>Pós graduação em Gestão Pública pela FACULDADE SÃO LUIS (2019-2020).</li>
     </ul>
   </li>
-  <li>Linked in: <a>https://www.linkedin.com/in/william-ricardo-munaretto</a></li>
+  <li>Linked in: <a href:"https://www.linkedin.com/in/william-ricardo-munaretto">https://www.linkedin.com/in/william-ricardo-munaretto</a></li>
 </ul>
 <br/>
 
