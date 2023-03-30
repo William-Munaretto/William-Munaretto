@@ -1,11 +1,11 @@
 ## Olá! Eu sou o William Ricardo Munaretto. Bem vindos ao meu GitHub!!! 👋
 
 <br />
-- 📫 Email: william.munaretto@gmail.com
-- :books: Formação: Graduação em Análise e Desenlvovimento de Sistemas pelo IFPR/FOZ (2019-2023);
--                   Graduação em Gestão Pública pela UNICESUMAR (2013-2015)
--                   Pós graduação em Gestão Pública pela FACULDADE SÃO LUIS (e também graduado e pós-graduado em Gestão Pública.
-- ⚡ Linked in: https://www.linkedin.com/in/william-ricardo-munaretto/ 
+* Email: william.munaretto@gmail.com
+* books: Formação: * Graduação em Análise e Desenlvovimento de Sistemas pelo IFPR/FOZ (2019-2023);
+                   * Graduação em Gestão Pública pela UNICESUMAR (2013-2015)
+                   * Pós graduação em Gestão Pública pela FACULDADE SÃO LUIS (e também graduado e pós-graduado em Gestão Pública.
+* ⚡ Linked in: <https://www.linkedin.com/in/william-ricardo-munaretto/>
 <br/>
 
 ---
